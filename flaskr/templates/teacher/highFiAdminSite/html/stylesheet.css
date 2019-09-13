@@ -1,0 +1,92 @@
+
+header
+{
+    background-color: red;
+    position: relative;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    height: 23vw;
+    top: 0%;
+    bottom: 10%;
+    margin-top: -5vw;
+    margin-bottom: -13vw;
+}
+#header-div
+{
+    background-color:black;
+    position: relative;
+    left: 10%;
+    top: 23%;
+    height:60%;
+    width: 75%;
+}
+body
+{
+    background-color:white;
+    text-decoration-color: black;
+}
+a{
+    text-decoration: none;
+}
+a:visited
+{
+    color:black;
+}
+a.menu{
+    color: #101010;
+    text-shadow:-1px -1px #909090;
+}
+
+a.href {
+    text-decoration: none;
+}
+#login{
+    position: absolute;
+    top: 23vw;
+    width: 40%;
+    left:30%;
+    height: 33%;
+    text-align: center;
+    background-color:red;
+    border-radius:25px;
+}
+#student{
+    position: absolute;
+    top: 23vw;
+    width: 50%;
+    left:25%;
+    height: 35%;
+    text-align: center;
+    background-color:red;
+    border-radius:25px;
+}
+#submit
+{ 
+    position: absolute;
+    top:83%;
+    width:40%;
+    left:30%;
+    text-align: center;
+    background-color: red;
+    border-radius:25px;
+    color: black;
+}
+#studentSearch
+{ 
+    position: absolute;
+    height: 15%;
+    top:84%;
+    width:40%;
+    left:30%;
+    text-align: center;
+    background-color: red;
+    border-radius:25px;
+    color: black;
+}
+h2{
+    color:black;
+}
